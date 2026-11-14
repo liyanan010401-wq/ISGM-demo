@@ -1,0 +1,11 @@
+{
+  "seed": 1404,
+  "data_seed": 4404,
+  "d": 8,
+  "lr": 0.01,
+  "stage_A_epochs": 5,
+  "stage_B_epochs": 3,
+  "stage_C_epochs": 2,
+  "max_tokens": 14,
+  "device": "cpu"
+}

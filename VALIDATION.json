@@ -1,0 +1,25 @@
+{
+  "verified_on": "2026-11-14",
+  "scope": "synthetic demo only",
+  "python": "3.12.14",
+  "torch": "2.10.0+cpu",
+  "numpy": "2.3.5",
+  "tests_passed": 17,
+  "test_records": 3,
+  "test_retrieval_calls": 3,
+  "parameters_unchanged_during_test": true,
+  "fixture_rebuild_byte_identical": true,
+  "predictions_match_previous_verified_run": true,
+  "source_and_data_sha256": {
+    "config.json": "210380c6eed4f32324daa80f97b0ae057238457ccc4131a78c878f9b1d92d0e6",
+    "requirements.txt": "3d6bf400fbc068e9adfbdd8639e372f23a006444599b73e90e869877a30087bd",
+    "run_demo.py": "55fae4bd379f74e3f7e2205a357344d99e5d499a335cdd12967ff6dfb23844dc",
+    "data/sample.json": "ae216b196a9842059252e495d9c6213e4397a58e24c62b413fa6966bb338724e",
+    "examples/metrics.json": "aa3bd370a889e2ab5dee4cba19be14a7b26256d3ffd090e72ced9c7a2f2f1800",
+    "examples/predictions.json": "52e61c267a8e83274da64afdb4b46f3319fb92524366ff0fdfca7e9fbc4605a5",
+    "src/core.py": "c10a00a95b448046ef2b0217df8d8f1e9f610e6dfb61997d16e5aa0e893a730f",
+    "src/data.py": "e0b060256d1f35db287b52143c49853f9e0576a74e6721c2041747788d810aa1",
+    "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/test_core.py": "5e242acb6eacf7a90ba61aaea6c8ad9facccb449e2ae80a94ab720402b27189b"
+  }
+}

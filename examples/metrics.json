@@ -1,0 +1,532 @@
+{
+  "status": "synthetic smoke test; NOT chest radiology result or clinical system",
+  "seconds": 2.2819905281066895,
+  "training_history": [
+    {
+      "stage": "A",
+      "epoch": 0,
+      "loss": 6.777762413024902,
+      "dm": {
+        "active_queries": 8,
+        "omitted_queries": 2,
+        "eligible_clause_counts": [
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18
+        ],
+        "positive_agreement_counts": [
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "assertion_supervision": [
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        }
+      ]
+    },
+    {
+      "stage": "A",
+      "epoch": 1,
+      "loss": 6.6226487159729,
+      "dm": {
+        "active_queries": 8,
+        "omitted_queries": 2,
+        "eligible_clause_counts": [
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18
+        ],
+        "positive_agreement_counts": [
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "assertion_supervision": [
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        }
+      ]
+    },
+    {
+      "stage": "A",
+      "epoch": 2,
+      "loss": 6.504127025604248,
+      "dm": {
+        "active_queries": 8,
+        "omitted_queries": 2,
+        "eligible_clause_counts": [
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18
+        ],
+        "positive_agreement_counts": [
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "assertion_supervision": [
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        }
+      ]
+    },
+    {
+      "stage": "A",
+      "epoch": 3,
+      "loss": 6.384847640991211,
+      "dm": {
+        "active_queries": 8,
+        "omitted_queries": 2,
+        "eligible_clause_counts": [
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18
+        ],
+        "positive_agreement_counts": [
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "assertion_supervision": [
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        }
+      ]
+    },
+    {
+      "stage": "A",
+      "epoch": 4,
+      "loss": 6.2456955909729,
+      "dm": {
+        "active_queries": 8,
+        "omitted_queries": 2,
+        "eligible_clause_counts": [
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18,
+          18
+        ],
+        "positive_agreement_counts": [
+          2,
+          2,
+          2,
+          2,
+          0,
+          0,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "assertion_supervision": [
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        },
+        {
+          "supervised_heads": 2,
+          "unmentioned_masked": 0,
+          "ambiguous_heads_masked": 0,
+          "outside_vocabulary_masked": 0
+        }
+      ]
+    },
+    {
+      "stage": "B",
+      "epoch": 0,
+      "loss": 3.5873484134674074
+    },
+    {
+      "stage": "B",
+      "epoch": 1,
+      "loss": 2.9509541511535646
+    },
+    {
+      "stage": "B",
+      "epoch": 2,
+      "loss": 2.517874240875244
+    },
+    {
+      "stage": "C",
+      "epoch": 0,
+      "loss": 1.6101115107536317
+    },
+    {
+      "stage": "C",
+      "epoch": 1,
+      "loss": 1.532081913948059
+    }
+  ],
+  "test_records": 3,
+  "test_retrieval_calls": 3,
+  "parameters_unchanged_during_test": true,
+  "stage_C_adapter_gradient_min": 1.7681432336621583,
+  "keep_eligible_token_occurrences": 0,
+  "candidate_cache_version": "687344e7fde9dda9eab794ab431cf4c63768ea8edd5a08b6b15c58604df3f28a",
+  "data_sha256": "ae216b196a9842059252e495d9c6213e4397a58e24c62b413fa6966bb338724e",
+  "substitutions": [
+    "8x8 geometric nonmedical inputs",
+    "8-dimensional tiny encoders and one-head GRU decoder",
+    "manually generated atomic fact schema instead of RadGraph parser",
+    "fixed demo thresholds, no clinical calibration",
+    "support feature 5*d+39+5+4+2=90 rather than1330"
+  ],
+  "source_training_patient_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}
